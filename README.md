@@ -14,7 +14,7 @@
   </a>
 
   <!-- Last Commit -->
-  <a href="https://github.com/Maya12981/Music-bot/commits/AshokShau">
+  <a href="https://github.com/Maya12981/Music-bot/commits/Maya12981">
     <img src="https://img.shields.io/github/last-commit/Maya12981/Music-bot?style=for-the-badge&color=blue" alt="Last Commit"/>
   </a>
 
