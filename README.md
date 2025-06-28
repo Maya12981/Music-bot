@@ -1,26 +1,26 @@
-# 🎵 TgMusicBot – Telegram Music Bot [![Stars](https://img.shields.io/github/stars/AshokShau/TgMusicBot?style=social)](https://github.com/AshokShau/TgMusicBot/stargazers)
+# 🎵 TgMusicBot – Telegram Music Bot [![Stars](https://img.shields.io/github/stars/Maya12981/Music-bot?style=social)](https://github.com/Maya12981/Music-bot/stargazers)
 
 **A high-performance Telegram Voice Chat Bot** for streaming music from YouTube, Spotify, JioSaavn, and more. Built with Python, Py-Tgcalls, and PyTdBot.
 
 <p align="center">
   <!-- GitHub Stars -->
-  <a href="https://github.com/AshokShau/TgMusicBot/stargazers">
-    <img src="https://img.shields.io/github/stars/AshokShau/TgMusicBot?style=for-the-badge&color=black&logo=github" alt="Stars"/>
+  <a href="https://github.com/Maya12981/Music-bot/stargazers">
+    <img src="https://img.shields.io/github/stars/Maya12981/Music-bot?style=for-the-badge&color=black&logo=github" alt="Stars"/>
   </a>
   
   <!-- GitHub Forks -->
-  <a href="https://github.com/AshokShau/TgMusicBot/network/members">
-    <img src="https://img.shields.io/github/forks/AshokShau/TgMusicBot?style=for-the-badge&color=black&logo=github" alt="Forks"/>
+  <a href="https://github.com/Maya12981/Music-bot/network/members">
+    <img src="https://img.shields.io/github/forks/Maya12981/Music-bot?style=for-the-badge&color=black&logo=github" alt="Forks"/>
   </a>
 
   <!-- Last Commit -->
-  <a href="https://github.com/AshokShau/TgMusicBot/commits/AshokShau">
-    <img src="https://img.shields.io/github/last-commit/AshokShau/TgMusicBot?style=for-the-badge&color=blue" alt="Last Commit"/>
+  <a href="https://github.com/Maya12981/Music-bot/commits/AshokShau">
+    <img src="https://img.shields.io/github/last-commit/Maya12981/Music-bot?style=for-the-badge&color=blue" alt="Last Commit"/>
   </a>
 
   <!-- Repo Size -->
-  <a href="https://github.com/AshokShau/TgMusicBot">
-    <img src="https://img.shields.io/github/repo-size/AshokShau/TgMusicBot?style=for-the-badge&color=success" alt="Repo Size"/>
+  <a href="https://github.com/Maya12981/Music-bot">
+    <img src="https://img.shields.io/github/repo-size/Maya12981/Music-bot?style=for-the-badge&color=success" alt="Repo Size"/>
   </a>
 
   <!-- Language -->
@@ -29,31 +29,31 @@
   </a>
 
   <!-- License -->
-  <a href="https://github.com/AshokShau/TgMusicBot/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/AshokShau/TgMusicBot?style=for-the-badge&color=blue" alt="License"/>
+  <a href="https://github.com/Maya12981/Music-bot/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Maya12981/Music-bot?style=for-the-badge&color=blue" alt="License"/>
   </a>
 
   <!-- Open Issues -->
-  <a href="https://github.com/AshokShau/TgMusicBot/issues">
-    <img src="https://img.shields.io/github/issues/AshokShau/TgMusicBot?style=for-the-badge&color=red" alt="Issues"/>
+  <a href="https://github.com/Maya12981/Music-bot/issues">
+    <img src="https://img.shields.io/github/issues/Maya12981/Music-bot?style=for-the-badge&color=red" alt="Issues"/>
   </a>
 
   <!-- Pull Requests -->
-  <a href="https://github.com/AshokShau/TgMusicBot/pulls">
-    <img src="https://img.shields.io/github/issues-pr/AshokShau/TgMusicBot?style=for-the-badge&color=purple" alt="PRs"/>
+  <a href="https://github.com/Maya12981/Music-bot/pulls">
+    <img src="https://img.shields.io/github/issues-pr/Maya12981/Music-bot?style=for-the-badge&color=purple" alt="PRs"/>
   </a>
 
   <!-- GitHub Workflow CI -->
-  <a href="https://github.com/AshokShau/TgMusicBot/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/AshokShau/TgMusicBot/code-fixer.yml?style=for-the-badge&label=CI&logo=github" alt="CI Status"/>
+  <a href="https://github.com/Maya12981/Music-bot/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/Maya12981/Music-bot/code-fixer.yml?style=for-the-badge&label=CI&logo=github" alt="CI Status"/>
   </a>
 </p>
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/AshokShau/TgMusicBot/master/.github/images/thumb.png" alt="thumbnail" width="320" height="320">
+   <img src="https://raw.githubusercontent.com/Maya12981/Music-bot/master/.github/images/thumb.png" alt="thumbnail" width="320" height="320">
 </p>
 
-### 🔥 Live Bot: [@FallenBeatzBot](https://t.me/FallenBeatzBot)
+### 🔥 Live Bot: [@Zoroo_Music_Bot](https://t.me/Zoroo_Music_Bot)
 
 ---
 
@@ -73,7 +73,7 @@
 
 ## 🚀 Quick Deploy
 
-[![Deploy on Heroku](https://img.shields.io/badge/Deploy%20on%20Heroku-430098?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/AshokShau/TgMusicBot)
+[![Deploy on Heroku](https://img.shields.io/badge/Deploy%20on%20Heroku-430098?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/Maya12981/Music-bot)
 
 ---
 
@@ -92,7 +92,7 @@
 ### 🚀 Quick Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/AshokShau/TgMusicBot.git && cd TgMusicBot
+   git clone https://github.com/Maya12981/Music-bot.git && cd Music-Bot
    ```
 
 ### 🔧 Configuration
@@ -119,43 +119,43 @@
 ### 🏗️ Build & Run
 1. Build Docker image:
    ```sh
-   docker build -t tgmusicbot .
+   docker build -t Music-Bot .
    ```
 
 2. Run container (auto-restarts on crash/reboot):
    ```sh
    docker run -d \
-     --name tgmusicbot \
+     --name Music-Bot \
      --env-file .env \
      --restart unless-stopped \
-     tgmusicbot
+     Music-Bot
    ```
 
 ### 🔍 Monitoring
 1. Check logs:
    ```sh
-   docker logs -f tgmusicbot
+   docker logs -f Music-Bot
    ```
    (Exit with `Ctrl+C`)
 
 ### ⚙️ Management Commands
 - **Stop container**:
   ```sh
-  docker stop tgmusicbot
+  docker stop Music-Bot
   ```
 
 - **Start container**:
   ```sh
-  docker start tgmusicbot
+  docker start Music-Bot
   ```
 
 - **Update the bot**:
   ```sh
-  docker stop tgmusicbot
-  docker rm tgmusicbot
+  docker stop Music-Bot
+  docker rm Music-Bot
   git pull origin master
-  docker build -t tgmusicbot .
-  docker run -d --name tgmusicbot --env-file .env --restart unless-stopped tgmusicbot
+  docker build -t Music-Bot .
+  docker run -d --name Music-Bot --env-file .env --restart unless-stopped tgmusicbot
   ```
 
 </details>
@@ -183,7 +183,7 @@
 
 2. **Clone the repository**:
    ```sh
-   git clone https://github.com/AshokShau/TgMusicBot.git && cd TgMusicBot
+   git clone https://github.com/Maya12981/Music-Bot.git && cd TgMusicBot
    ```
 
 ### 🐍 Python Environment
@@ -256,7 +256,7 @@ tgmusic
 | `API_ID` | Telegram App ID | [my.telegram.org](https://my.telegram.org/apps) |
 | `API_HASH` | Telegram App Hash | [my.telegram.org](https://my.telegram.org/apps) |
 | `TOKEN` | Bot Token | [@BotFather](https://t.me/BotFather) |
-| `STRING1-10` | Pyrogram Sessions | [@StringFatherBot](https://t.me/StringFatherBot) |
+| `STRING1-10` | Pyrogram Sessions | [@String_Session_generte_bot](https://t.me/String_Session_generte_bot) |
 | `MONGO_URI` | MongoDB Connection | [MongoDB Atlas](https://cloud.mongodb.com) |
 
 </details>
@@ -270,10 +270,10 @@ tgmusic
 API_URL=https://tgmusic.fallenapi.fun
 API_KEY=your-secret-key
 ```
-📌 Get keys: [Contact @AshokShau](https://t.me/AshokShau) or [@FallenApiBot](https://t.me/FallenApiBot)
+📌 Get keys: [Contact @Mr_Roronoa_zoroo](https://t.me/Mr_Roronoa_zoroo) or [@FallenApiBot](https://t.me/Mr_Roronoa_zoroo)
 
 ### Option 2: Cookies
-[![Cookie Guide](https://img.shields.io/badge/Guide-Read%20Here-blue?style=flat-square)](https://github.com/AshokShau/TgMusicBot/blob/master/cookies/README.md)
+[![Cookie Guide](https://img.shields.io/badge/Guide-Read%20Here-blue?style=flat-square)](https://github.com/Maya12981/Music-bot/blob/master/cookies/README.md)
 
 ---
 
@@ -304,8 +304,8 @@ API_KEY=your-secret-key
 
 ## 📜 License
 
-AGPL-3.0 © [AshokShau](https://github.com/AshokShau).  
-[![License](https://img.shields.io/github/license/AshokShau/TgMusicBot?color=blue)](LICENSE)
+AGPL-3.0 © [AshokShau](https://github.com/Maya12981).  
+[![License](https://img.shields.io/github/license/Maya12981/Music-bot?color=blue)](LICENSE)
 
 ---
 
@@ -319,7 +319,7 @@ Help keep this project alive!
 
 ## 🔗 Connect
 
-[![GitHub](https://img.shields.io/badge/Follow-GitHub-black?logo=github)](https://github.com/AshokShau)  
-[![Channel](https://img.shields.io/badge/Updates-Channel-blue?logo=telegram)](https://t.me/FallenProjects)
+[![GitHub](https://img.shields.io/badge/Follow-GitHub-black?logo=github)](https://github.com/Maya12981)  
+[![Channel](https://img.shields.io/badge/Updates-Channel-blue?logo=telegram)](https://t.me/Zoro_bots)
 
 ---
