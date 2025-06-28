@@ -312,8 +312,8 @@ AGPL-3.0 © [AshokShau](https://github.com/Maya12981).
 ## 💖 Support
 
 Help keep this project alive!  
-[![Telegram](https://img.shields.io/badge/Chat-Support%20Group-blue?logo=telegram)](https://t.me/GuardxSupport)  
-[![Donate](https://img.shields.io/badge/Donate-Crypto/PayPal-ff69b4)](https://t.me/AshokShau)
+[![Telegram](https://img.shields.io/badge/Chat-Support%20Group-blue?logo=telegram)](https://t.me/Zoro_bots)  
+[![Donate](https://img.shields.io/badge/Donate-Crypto/PayPal-ff69b4)](https://t.me/Zoro_bots)
 
 ---
 
