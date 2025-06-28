@@ -270,7 +270,7 @@ tgmusic
 API_URL=https://tgmusic.fallenapi.fun
 API_KEY=your-secret-key
 ```
-📌 Get keys: [Contact @Mr_Roronoa_zoroo](https://t.me/Mr_Roronoa_zoroo) or [@FallenApiBot](https://t.me/Mr_Roronoa_zoroo)
+📌 Get keys: [Contact @Mr_Roronoa_zoroo](https://t.me/Mr_Roronoa_zoroo) or [@Mr_Roronoa_zoroo](https://t.me/Mr_Roronoa_zoroo)
 
 ### Option 2: Cookies
 [![Cookie Guide](https://img.shields.io/badge/Guide-Read%20Here-blue?style=flat-square)](https://github.com/Maya12981/Music-bot/blob/master/cookies/README.md)
